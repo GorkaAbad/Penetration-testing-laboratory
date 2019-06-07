@@ -1,0 +1,10 @@
+{
+  "require": {
+    "monolog/monolog": "1.0.*",
+    "sendgrid/sendgrid": "~7",
+    "ext-mbstring": "*",
+    "slim/slim": "2.4.3",
+    "shark/simple_html_dom": "dev-master"
+  }
+
+}
